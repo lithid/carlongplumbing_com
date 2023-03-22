@@ -1,1 +1,5 @@
-Coming Soon...
+---
+layout: default
+---
+
+Coming Soon!
