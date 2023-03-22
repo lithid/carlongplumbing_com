@@ -13,9 +13,8 @@ body {
   font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#555;
   font-weight:300;
-  background-image: url('../images/plumbing-background.jpg');
-  background-size: cover;
-  background-repeat: no-repeat;
+  background:url('../images/checker.png') fixed;
+  min-height: calc(100% - 100px);
 }
 
 .wrapper {
@@ -48,6 +47,8 @@ strong {
 header {
   border-radius: 8px 8px 0 0;
   background:#C6EAFA;
+  background-image:url('../images/plumbing-background.png');
+  background-repeat: no-repeat;
   background: linear-gradient(#DDFBFC, #C6EAFA);
   position:relative;
   padding:15px 20px;
