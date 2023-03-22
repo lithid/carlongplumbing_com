@@ -13,7 +13,7 @@ body {
   font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#555;
   font-weight:300;
-  background:url('../images/checker.png') fixed;
+  background:url('../images/checker.png');
   min-height: calc(100% - 100px);
 }
 
@@ -46,7 +46,7 @@ strong {
 
 header {
   border-radius: 8px 8px 0 0;
-  background-image:url('../images/plumbing-background.jpg');
+  background-image:url('../images/plumbing-background-light.jpg');
   background-repeat: no-repeat;
   background-position: bottom;
   background-size: cover;
