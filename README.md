@@ -9,7 +9,7 @@ Let Carlong Plumbing Solutions be your plumber to diagnose and repair or install
 
 ### Commercial Plumbing
 
-Our team of professionals can handle all of your Commercial needs. Let our team diagnose and properly repair or replace all of your plumbing issues. From flushometers to 3 compartment sinks and faucets and everything in-between let us be your one stop for all your plumbing needs
+Our team of professionals can handle all of your Commercial needs. Let our team diagnose and properly repair or replace all of your plumbing issues. From flushometers to 3 compartment sinks and faucets and everything in-between let us be your one stop for all your plumbing needs.
 
 ### Sewer and Drains
 
@@ -21,12 +21,14 @@ Water heaters are one of the most critical plumbing fixtures providing hot water
 
 ### Tankless Water Heaters
 
-Carlong Plumbing Solutions is your leader in tankless repair and service. We can help with a new install or redesign your entire hot water system to upgrade from a tank style to a tankless
+Carlong Plumbing Solutions is your leader in tankless repair and service. We can help with a new install or redesign your entire hot water system to upgrade from a tank style to a tankless.
 
 ### Excavation
 
-With almost 25 years of combined experience Carlong Plumbing Solutions is capable of handling any of your excavation needs. Full sanitary and storm sewer repairs or replacements. Inside or outside work is no problem for our team of professionals. Your problems being our number one focus to ensure we have the proper solutions to your problem and fix it correctly the first time.
+Excavations can seem very overwhelming. 25 years of combined experience have prepared Carlong Plumbing Solutions to make the process simple to understand and put your mind at ease. Your problems being our number one focus to ensure we have the proper solutions to your problem and fix it correctly the first time.
+* Full sanitary and storm sewer repairs or replacements.
+* Inside or outside work is no problem for our team of professionals.
 
 ### Sewer Camera 
 
-Call for one of our professionals to perform a Sewer camera inspection today and can provide location services and video at customer request
+Call for one of our professionals to perform a Sewer camera inspection today and can provide location services and video at customer request.
